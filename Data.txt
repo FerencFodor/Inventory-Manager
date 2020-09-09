@@ -1,0 +1,14 @@
+{
+  "0": {
+    "name": "Wood Screw ",
+    "id": 0,
+    "price": 2.5,
+    "quantity": 100
+  },
+  "1": {
+    "name": "Bowl ",
+    "id": 1,
+    "price": 1.2,
+    "quantity": 50
+  }
+}
